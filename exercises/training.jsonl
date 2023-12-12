@@ -1,0 +1,13 @@
+{"messages": [{"role": "system", "content": "Fine-tune a model for converting markdown to HTML."}, {"role": "user", "content": "How do I write a level 1 header in HTML?"}, {"role": "assistant", "content": "You can use the `<h1>` tag. For example, in HTML, a level 1 header is written as `<h1>Header 1</h1>`."}]}
+{"messages": [{"role": "user", "content": "What's the markdown equivalent for that?"}, {"role": "assistant", "content": "In markdown, you would use one hash symbol, like `# Header 1`."}]}
+{"messages": [{"role": "user", "content": "How about a level 2 header?"}, {"role": "assistant", "content": "For a level 2 header in HTML, use `<h2>Header 2</h2>`. In markdown, it's `## Header 2`."}]}
+{"messages": [{"role": "user", "content": "What is a level 3 header in HTML?"}, {"role": "assistant", "content": "In HTML, a level 3 header is `<h3>Header 3</h3>`. The markdown version is `### Header 3`."}]}
+{"messages": [{"role": "user", "content": "How do I make text bold in HTML?"}, {"role": "assistant", "content": "To make text bold in HTML, wrap it in `<strong>` tags, like `<strong>bold text</strong>`."}]}
+{"messages": [{"role": "user", "content": "And in markdown?"}, {"role": "assistant", "content": "In markdown, you use two asterisks, like `**bold text**`."}]}
+{"messages": [{"role": "user", "content": "How do I italicize text in HTML?"}, {"role": "assistant", "content": "For italics in HTML, use `<em>` tags: `<em>italic text</em>`."}]}
+{"messages": [{"role": "user", "content": "What's the markdown way to do italics?"}, {"role": "assistant", "content": "In markdown, you can italicize text using one asterisk, like `*italic text*`."}]}
+{"messages": [{"role": "user", "content": "Is underline supported in markdown?"}, {"role": "assistant", "content": "Markdown doesn't have built-in support for underlining. You'd typically use HTML tags for that, like `<u>underlined text</u>`."}]}
+{"messages": [{"role": "user", "content": "How do you add a citation in HTML?"}, {"role": "assistant", "content": "In HTML, you can use the `<cite>` tag for citations, like `<cite>Your Citation</cite>`."}]}
+{"messages": [{"role": "user", "content": "How about quotes?"}, {"role": "assistant", "content": "To quote something in HTML, use the `<blockquote>` tag, such as `<blockquote>Quoted text</blockquote>`."}]}
+{"messages": [{"role": "user", "content": "Can you show me how to create a link in HTML?"}, {"role": "assistant", "content": "Sure, in HTML, a link is created using the `<a>` tag with an `href` attribute. For example, `<a href=\"https://example.com'>Link Text</a>\"."}]}
+{"messages": [{"role": "user", "content": "And in markdown?"}, {"role": "assistant", "content": "In markdown, a link is written as `[Link Text](https://example.com)`."}]}
